@@ -1,5 +1,5 @@
 # Algoritma ve Programlama Dersi
-# Proje: Öğrenci Not Giriş Sistemi (E-Okul Mantığı)
+# Proje: Öğrenci Not Giriş Sistemi (e-okul mantığı)
 # Dil: Python
 
 ogrenciler = {}
@@ -19,4 +19,5 @@ for ad, notu in ogrenciler.items():
     print(ad, ":", notu)
 
 print("\nNot girişi tamamlandı. Program sonlandırıldı.")
+
 
